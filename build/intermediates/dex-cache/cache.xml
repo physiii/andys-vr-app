@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/physiii/code/cardboardVideoSample/CardboardSample/libs/cardboard.jar"
+        jumboMode="true"
+        revision="21.0.2"
+        sha1="2403806886bbe517707b43afb5e5c9ce9883c4d2">
+        <dex dex="/home/physiii/code/cardboardVideoSample/CardboardSample/build/intermediates/transforms/dex/debug/folders/1000/2/cardboard_3e1a32f70da6a83bd19cbe771617c4c9273d7f0a/classes.dex" />
+    </item>
+    <item
+        jar="/home/physiii/code/cardboardVideoSample/CardboardSample/libs/libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="/home/physiii/code/cardboardVideoSample/CardboardSample/build/intermediates/pre-dexed/debug/libprotobuf-java-2.6-nano_f226cff814d6b818226bf29e661d0601f1f48b52.jar" />
+    </item>
+    <item
+        jar="/home/physiii/code/cardboardVideoSample/CardboardSample/libs/libprotobuf-java-2.6-nano.jar"
+        jumboMode="true"
+        revision="21.0.2"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="/home/physiii/code/cardboardVideoSample/CardboardSample/build/intermediates/transforms/dex/debug/folders/1000/2/libprotobuf-java-2.6-nano_f226cff814d6b818226bf29e661d0601f1f48b52/classes.dex" />
+    </item>
+    <item
+        jar="/home/physiii/code/cardboardVideoSample/CardboardSample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.0.2"
+        sha1="1f75e1f02af87298467154882dfe76891de5562d">
+        <dex dex="/home/physiii/code/cardboardVideoSample/CardboardSample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_524c91997600e1b4934c02b9726a6a8d56b9b5b2/classes.dex" />
+    </item>
+    <item
+        jar="/home/physiii/code/cardboardVideoSample/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="2403806886bbe517707b43afb5e5c9ce9883c4d2">
+        <dex dex="/home/physiii/code/cardboardVideoSample/CardboardSample/build/intermediates/pre-dexed/debug/cardboard_3e1a32f70da6a83bd19cbe771617c4c9273d7f0a.jar" />
+    </item>
+    <item
+        jar="/home/physiii/code/cardboardVideoSample/CardboardSample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.0.2"
+        sha1="6494642c5a646b98be88303a6628ef9325ea6416">
+        <dex dex="/home/physiii/code/cardboardVideoSample/CardboardSample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a9d7a17d887ced547ddba705cc42d98f9cd8087/classes.dex" />
+    </item>
+
+</items>
