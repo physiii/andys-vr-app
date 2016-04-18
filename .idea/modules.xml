@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CardboardSample/CardboardSample.iml" filepath="$PROJECT_DIR$/CardboardSample/CardboardSample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cardboardVideoSample.iml" filepath="$PROJECT_DIR$/cardboardVideoSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andys-vr-app.iml" filepath="$PROJECT_DIR$/andys-vr-app.iml" />
     </modules>
   </component>
 </project>
